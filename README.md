@@ -8,7 +8,7 @@ Le tableau final devra être retourné par la fonction mergeContactInfos.
 15:09
 
 
-
+/* JS code starts here */
 function mergeContactsInfos(infos1, infos2) {
     let infos = [];
 
