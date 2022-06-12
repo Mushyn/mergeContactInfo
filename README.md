@@ -7,7 +7,7 @@ Vous devez vous baser sur la propriété "name" qui sera toujours présente dans
 Le tableau final devra être retourné par la fonction mergeContactInfos.
 15:09
 
-
+// Insert your code here
 /* JS code starts here */
 
 
